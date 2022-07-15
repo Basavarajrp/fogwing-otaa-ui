@@ -1,1 +1,1 @@
-export const BASE_URL = "https://devin.fogwing.net/otaa"
+export const BASE_URL = "https://apiactivate-devin.fogwing.net/otaa"
